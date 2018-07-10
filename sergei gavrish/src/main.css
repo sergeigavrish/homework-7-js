@@ -1,0 +1,19 @@
+@font-face {
+	font-family: AvenirNext;
+	src: "https://fonts.googleapis.com/css?family=Roboto";
+}
+
+html {
+	font-size: 12px;	
+}
+
+body {
+	font-family: AvenirNext;
+	line-height: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.app {
+  display: flex;
+}

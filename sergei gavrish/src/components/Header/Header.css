@@ -1,0 +1,23 @@
+.header {
+	border: 5px solid #ffcc5c;
+	display: flex;
+	padding: 0;
+	margin: 0;
+}
+
+.header > li {
+	padding: 10px;
+	text-align: center;
+	font-size: 2rem;
+	color: #ffeead;
+	box-sizing: border-box;
+	background-color: #96ceb4;
+	list-style-type: none;
+	flex: 1 1;
+}
+
+a {
+	text-decoration: none;
+}
+
+
